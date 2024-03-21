@@ -323,9 +323,7 @@ const Services = () => {
 export default Services
 ```
 
-#### Tours
 
-- refactor repeating code
 
 #### Footer
 
@@ -342,15 +340,7 @@ export default Services
   - the more "moving parts" you will have the harder it's going to be to manage
   - my personal preference, if possible just use data
 
-#### Challenge (optional)
 
-- create more components (essentially, split up the code more)
-- find all map methods and move elements to separate components
-- By the end of the video you should have four additional components
-  - Tour.js
-  - Service.js
-  - SocialLink.js
-  - PageLink.js
 
 #### Continuous Deployment
 
