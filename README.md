@@ -1,27 +1,19 @@
 # Backroads App
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed](https://rohithchatrathi.com)
 
-- backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
   - navigate to the folder
   - run 'npm install'
   - once the dependencies are installed run 'npm start'
 
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Create New React App
 
 - install
 
 ```sh
-npx create-react-app@latest backroads-app
+npx create-react-app@latest react-app
 ```
 
 - run dev server
@@ -190,10 +182,7 @@ html {
 
 ```js
 export const pageLinks = [
-  { id: 1, href: '#home', text: 'home' },
-  { id: 2, href: '#about', text: 'about' },
-  { id: 3, href: '#services', text: 'services' },
-  { id: 4, href: '#tours', text: 'tours' },
+ ...
 ]
 ```
 
